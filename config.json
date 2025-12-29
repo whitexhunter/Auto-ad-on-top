@@ -1,8 +1,0 @@
-{
-    "user_tokens": [],
-    "channel_ids": [],
-    "time_interval": 3600,
-    "ad_messages": [],
-    "control_bot_token": "YOUR_CONTROL_BOT_TOKEN",
-    "owner_id": "YOUR_DISCORD_USER_ID"
-}
