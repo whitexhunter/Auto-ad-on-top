@@ -1,0 +1,14 @@
+language = "python3"
+run = "python main.py"
+
+[packages]
+discord.py = "2.3.2"
+Flask = "2.3.0"
+aiohttp = "3.9.0"
+psutil = "5.9.6"
+
+[features]
+internet = true
+
+[env]
+PYTHONUNBUFFERED = "1"
